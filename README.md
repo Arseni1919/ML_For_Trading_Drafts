@@ -4,8 +4,8 @@ This repository contains simple implementations of different ML concepts regardi
 
 ## Basic Inputs
 
-- [ ] get data
-- [ ] get features
+- [ ] Get Data
+- [ ] Get Features
 
 ## Basic ML Techniques
 
