@@ -23,7 +23,7 @@ This repository contains simple implementations of different ML concepts regardi
 - [ ] Transformers
 - [ ] GANs
 
-## RL Techniques 
+## DRL Techniques 
 
 - [ ] Q-learning
 - [ ] DDQN
